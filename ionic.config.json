@@ -1,12 +1,5 @@
 {
-  "name": "pulse",
+  "name": "calculator",
   "integrations": {},
-  "type": "ionic1",
-  "id": "ea6f5bd9",
-  "watchPatterns": [
-    "scss/**/*",
-    "www/**/*",
-    "!www/lib/**/*",
-    "!www/**/*.map"
-  ]
+  "type": "angular"
 }
